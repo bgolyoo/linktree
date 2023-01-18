@@ -1,0 +1,53 @@
+{
+  "name": "John",
+  "avatar": "https://pbs.twimg.com/profile_images/1390657968434302982/_gza_07P_400x400.jpg",
+  "links": [
+    {
+      "href": "https://www.youtube.com/channel/UCEcrRXW3oEYfUctetZTAWLw",
+      "title": "Youtube",
+      "image": "https://pbs.twimg.com/profile_images/1390657968434302982/_gza_07P_400x400.jpg"
+    },
+    {
+      "href": "https://www.youtube.com/channel/UCc_ycus0q7DSd85ZkmEY5ig?guided_help_flow=5",
+      "title": "Clips"
+    },
+    {
+      "href": "https://apple.co/selenagomezdoc",
+      "title": "Stream Now Selena Gomez: My Mind & Me | Apple TV+"
+    },
+    {
+      "href": "https://open.spotify.com/show/6o81QuW22s5m2nfcXWjucc",
+      "title": "Spotify"
+    }
+  ],
+  "social": [
+    {
+      "href": "https://facebook.com/Selena",
+      "type": "facebook"
+    },
+    {
+      "href": "https://twitter.com/selenagomez",
+      "type": "twitter"
+    },
+    {
+      "href": "https://instagram.com/selenagomez",
+      "type": "instagram"
+    },
+    {
+      "href": "https://tiktok.com/@selenagomez",
+      "type": "tiktok"
+    },
+    {
+      "href": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx?si=vLUeKsFuTSKqHn7JJIr2Eg",
+      "type": "spotify"
+    },
+    {
+      "href": "https://youtube.com/selenagomez",
+      "type": "youtube"
+    },
+    {
+      "href": "https://music.apple.com/us/artist/selena-gomez/280215834",
+      "type": "itunes-note"
+    }
+  ]
+}

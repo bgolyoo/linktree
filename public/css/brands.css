@@ -1,0 +1,154 @@
+/*!
+ * Font Awesome Pro 6.1.1 by @fontawesome - https://fontawesome.com
+ * License - https://fontawesome.com/license (Commercial License)
+ * Copyright 2023 Fonticons, Inc.
+ */
+:root, :host {
+  --fa-font-brands: normal 400 1em/1 "Font Awesome 6 Brands"; }
+
+@font-face {
+  font-family: 'Font Awesome 6 Brands';
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+  src: url("../webfonts/fa-brands-400.woff2") format("woff2"), url("../webfonts/fa-brands-400.ttf") format("truetype"); }
+
+.fab,
+.fa-brands {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400; }
+
+.fa-amazon:before {
+  content: "\f270"; }
+
+.fa-discord:before {
+  content: "\f392"; }
+
+.fa-dribbble:before {
+  content: "\f17d"; }
+
+.fa-facebook:before {
+  content: "\f09a"; }
+
+.fa-figma:before {
+  content: "\f799"; }
+
+.fa-github:before {
+  content: "\f09b"; }
+
+.fa-gitlab:before {
+  content: "\f296"; }
+
+.fa-goodreads-g:before {
+  content: "\f3a9"; }
+
+.fa-instagram:before {
+  content: "\f16d"; }
+
+.fa-invision:before {
+  content: "\f7b0"; }
+
+.fa-itunes-note:before {
+  content: "\f3b5"; }
+
+.fa-jsfiddle:before {
+  content: "\f1cc"; }
+
+.fa-kickstarter:before {
+  content: "\f3bb"; }
+
+.fa-linkedin-in:before {
+  content: "\f0e1"; }
+
+.fa-medium:before {
+  content: "\f23a"; }
+
+.fa-medium-m:before {
+  content: "\f23a"; }
+
+.fa-npm:before {
+  content: "\f3d4"; }
+
+.fa-patreon:before {
+  content: "\f3d9"; }
+
+.fa-paypal:before {
+  content: "\f1ed"; }
+
+.fa-pinterest:before {
+  content: "\f0d2"; }
+
+.fa-readme:before {
+  content: "\f4d5"; }
+
+.fa-reddit-alien:before {
+  content: "\f281"; }
+
+.fa-skype:before {
+  content: "\f17e"; }
+
+.fa-slack:before {
+  content: "\f198"; }
+
+.fa-slack-hash:before {
+  content: "\f198"; }
+
+.fa-snapchat:before {
+  content: "\f2ab"; }
+
+.fa-snapchat-ghost:before {
+  content: "\f2ab"; }
+
+.fa-soundcloud:before {
+  content: "\f1be"; }
+
+.fa-spotify:before {
+  content: "\f1bc"; }
+
+.fa-squarespace:before {
+  content: "\f5be"; }
+
+.fa-stack-overflow:before {
+  content: "\f16c"; }
+
+.fa-steam:before {
+  content: "\f1b6"; }
+
+.fa-tiktok:before {
+  content: "\e07b"; }
+
+.fa-trello:before {
+  content: "\f181"; }
+
+.fa-tumblr:before {
+  content: "\f173"; }
+
+.fa-twitch:before {
+  content: "\f1e8"; }
+
+.fa-twitter:before {
+  content: "\f099"; }
+
+.fa-unsplash:before {
+  content: "\e07c"; }
+
+.fa-viber:before {
+  content: "\f409"; }
+
+.fa-vimeo-v:before {
+  content: "\f27d"; }
+
+.fa-vine:before {
+  content: "\f1ca"; }
+
+.fa-whatsapp:before {
+  content: "\f232"; }
+
+.fa-wordpress:before {
+  content: "\f19a"; }
+
+.fa-xbox:before {
+  content: "\f412"; }
+
+.fa-youtube:before {
+  content: "\f167"; }
